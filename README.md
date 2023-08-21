@@ -1,3 +1,4 @@
 # liveSesion2
-soal soal:
-1. pengertian github
+
+jawaban 
+1. tools for management versioning control system.
